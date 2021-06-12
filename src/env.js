@@ -1,3 +1,3 @@
 export default {
-  apiKey: 80421865,
+  apiKey: process.env.VUE_APP_API_KEY,
 };
